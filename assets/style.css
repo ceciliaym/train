@@ -1,0 +1,32 @@
+.jumbotron {
+    text-align: center;
+    background-color: lightblue;
+    font-style: oblique;
+    margin-left: 15%;
+    margin-right: 15%;
+   border-radius: 20%;
+   border-top-color: pink;
+   border-bottom-color: indigo;
+   border-left-color: hotpink;
+   border-right-color: firebrick;
+   border-style: dotted;
+   border-width: 5px;
+
+}
+
+.panel-primary {
+    margin-left: 10%;
+    margin-right:10%;
+    background-color: honeydew;
+   
+}
+
+.panel-heading {
+    background-color: hotpink;
+}
+
+body{
+    background-color: lightpink;
+}
+
+
